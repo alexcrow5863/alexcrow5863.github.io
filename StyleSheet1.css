@@ -1,0 +1,12 @@
+﻿body
+{
+background-color: darkred;
+color: white;
+font-family:  'Bad Script';
+font-size: 2rem;
+}
+
+.card-body{
+    color:white;
+    background:black;
+}
